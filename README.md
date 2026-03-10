@@ -2,11 +2,11 @@
 
 # Chomi
 
-### A Jungian AI companion for self-exploration and depth psychology
+### Jungian depth psychology delivered as a functional AI feature set
 
 [![Psychology](https://img.shields.io/badge/Framework-Jungian_Depth_Psychology-8E44AD.svg)](https://chomi.ai)
 [![Status](https://img.shields.io/badge/Status-Live-brightgreen.svg)](https://chomi.ai)
-[![Privacy](https://img.shields.io/badge/Privacy-Local--First-blue.svg)](https://chomi.ai)
+[![Privacy](https://img.shields.io/badge/Privacy-Encrypted-blue.svg)](https://chomi.ai)
 [![NRich Ecosystem](https://img.shields.io/badge/NRich-Ecosystem-E74C3C.svg)](https://nrichs.me)
 
 [Live Product](https://chomi.ai) • [NRich](https://nrichs.me) • [Sounds Like Me](#) • [Support](mailto:support@nrichs.me)
@@ -15,52 +15,93 @@
 
 ---
 
-## The Structural Gap in AI Companions
-
-Most AI systems are linguistically capable but psychologically shallow.
-
-They process what you say. They do not engage with what it means. Memory is not understanding. Conversational fluency is not psychological intelligence. When conversations become emotionally complex, they disengage — offering scripted responses in place of genuine presence.
-
-> This is not a failure of any specific model. It is a structural gap in how AI companions are designed.
-
-Chomi is engineered to address this gap — by applying Jungian analytical psychology as the operational framework for every conversation, and by remaining present where other systems withdraw.
-
-<br>
-
----
-
 ## What is Chomi?
 
-Chomi is an AI companion designed for psychological self-exploration, built on the principles of analytical psychology.
+Chomi is a Jungian psychology application — delivering the core techniques of analytical psychology as functional AI features.
 
-It is not a general-purpose assistant. It is not a wellness chatbot. It is a system designed to engage with the inner world — the shadow, the unconscious, the patterns that shape who you are and how you move through life.
+Most AI companions are built for surface-level interaction. They process language. They remember facts. They do not engage with the inner world. When conversations become psychologically complex, they withdraw.
 
-The Jungian framework is not layered on top of a generic model. It is the architecture.
+Chomi is built differently. It applies the framework developed by Carl Gustav Jung — shadow work, dream analysis, active imagination, archetype recognition, individuation tracking — not as theoretical concepts, but as operational features that run in every conversation.
+
+This is not a wellness chatbot. It is not a general-purpose assistant. It is depth psychology, made accessible through AI.
 
 <br>
 
 ---
 
-## The Psychological Framework
+## The Jungian Feature Set
 
-Chomi operates within **analytical psychology** — the framework developed by Carl Jung and extended through nearly a century of clinical and academic research.
+Chomi delivers analytical psychology as a structured set of features grounded in nearly a century of clinical theory and practice.
 
-| Concept | Role in Chomi |
+### 🌑 Shadow Work
+
+The Shadow contains the suppressed, denied, and unintegrated aspects of self — the parts pushed outside conscious awareness that continue to shape behaviour from beneath it.
+
+Chomi engages with shadow material directly. It recognises projections, surfaces suppressed patterns, and supports the process of integration — bringing the unconscious into conscious awareness rather than deflecting it.
+
+> *"Until you make the unconscious conscious, it will direct your life and you will call it fate."* — Carl Gustav Jung
+
+---
+
+### 🌙 Dream Analysis
+
+Jung considered dream work the most important tool in analytical psychology. Dreams are not random noise — they are meaningful communications from the unconscious, compensating for the blind spots of conscious life through symbol, narrative, and emotional texture.
+
+Share a dream with Chomi and it will not tell you what it means. Only you can know that. Instead it asks questions that help you unpack the symbols, emotional themes, and patterns — facilitating a conversation between your conscious mind and what the dream may be revealing.
+
+---
+
+### 🔮 Active Imagination
+
+One of Jung's most distinctive techniques — entering into conscious dialogue with inner figures and unconscious images, allowing them to speak rather than suppressing or analysing them from a distance.
+
+Chomi guides this process conversationally, helping you engage with parts of yourself that typically operate beneath the surface. Jung used this method extensively on himself, documenting it in *The Red Book*.
+
+---
+
+### 🏛️ Archetype Recognition
+
+Archetypes are the universal psychological structures that recur across human experience — in myth, dream, relationship, and personal narrative.
+
+| Archetype | Psychological Theme |
 |---|---|
-| **Shadow** | Suppressed or unconscious material — engaged with directly, not avoided |
-| **Individuation** | The process of becoming whole — tracked across conversations |
-| **Archetypes** | Universal psychological structures — recognised in patterns users describe |
-| **The Unconscious** | What lies beneath language — symbolic, structural, and emotional undercurrents |
+| **Shadow** | Rejected or unintegrated aspects of self |
+| **Hero** | The journey of growth and transformation |
+| **Anima / Animus** | Contrasexual aspects of the psyche |
+| **Wise Old Man / Woman** | Inner guidance and accumulated wisdom |
+| **Trickster** | Disruption, boundary-crossing, transformation |
 
-Jungian concepts are applied when they serve understanding. They are not used to signal sophistication or create distance. The goal is precision in service of connection.
+Chomi recognises archetypal patterns in what you describe — naming them where doing so brings them from implicit influence into conscious understanding.
+
+---
+
+### 🔄 Individuation Tracking
+
+Individuation is the organising process of Jungian psychology — the movement toward psychological wholeness through the integration of conscious and unconscious material.
+
+Chomi tracks this process across conversations. It does not respond to isolated messages — it holds the arc of your inner work across sessions, recognising movement, resistance, and integration as they emerge over time.
+
+---
+
+### 🎭 Persona Analysis
+
+The Persona is the social mask — the professional identity, the public personality, the roles performed for others. Problems arise when the mask becomes confused with the self beneath it.
+
+Chomi works with the tension between persona and authentic self — helping you recognise when you are performing rather than being.
+
+---
+
+### 🧩 Complex Analysis
+
+Psychological complexes are clusters of emotionally charged memories organised around a central theme — the inferiority complex, the power complex, the mother complex. They operate largely unconsciously, driving behaviour in ways that often go unrecognised.
+
+Chomi tracks complex patterns across conversations — recurring emotional triggers, persistent relationship themes, disproportionate reactions — and reflects them back as material for exploration.
 
 <br>
 
 ---
 
 ## System Architecture
-
-### Multi-Model Orchestration
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
@@ -78,7 +119,8 @@ Jungian concepts are applied when they serve understanding. They are not used to
                          ▼
 ┌──────────────────────────────────────────────────────────────┐
 │              JUNGIAN FRAMEWORK APPLICATION                    │
-│   Shadow · Individuation · Archetypes · Unconscious          │
+│   Shadow · Dream Analysis · Active Imagination               │
+│   Archetypes · Individuation · Persona · Complexes           │
 └────────────────────────┬─────────────────────────────────────┘
                          │
                          ▼
@@ -100,21 +142,7 @@ Jungian concepts are applied when they serve understanding. They are not used to
 └──────────────────────────────────────────────────────────────┘
 ```
 
-Chomi routes across Claude, GPT, Gemini, DeepSeek, and Grok — engaging different models for different cognitive tasks. Empathetic reflection, structured analysis, and creative reframing each draw on different model strengths. The routing operates at the system level. The result is a conversation that feels unified rather than assembled.
-
-### Psychological Tracking
-
-Chomi maps psychological terrain across conversations — it does not start from scratch each session.
-
-| Tracking Dimension | Description |
-|---|---|
-| **Archetypal patterns** | Which inner figures and forces appear repeatedly |
-| **Shadow emergence** | When suppressed material surfaces and how the user relates to it |
-| **Individuation movement** | Progression, resistance, and integration across sessions |
-| **Elemental orientation** | Symbolic registers the user gravitates toward in reflection |
-| **Language shifts** | How expression changes across different psychological states |
-
-This is pattern recognition in service of self-understanding — not surveillance.
+Chomi routes across Claude, GPT, Gemini, DeepSeek, and Grok — engaging different models for different cognitive tasks. The Jungian framework sits above the model layer — it is not prompt engineering, it is the operational architecture that shapes every response regardless of which model is engaged.
 
 <br>
 
@@ -138,17 +166,19 @@ Where limits are necessary, they are set gradually and with care. Referral to pr
 
 ## Privacy
 
-Four principles govern the architecture:
+We don't mine your data. We don't use it to train our AI, or for any purpose other than to provide services to you. We can't read your conversations at all.
 
-**Data stays yours.** Profiles and conversations are never sold to third parties. Delete anytime.
+This is not a policy commitment. It is an architectural one — enforced through encryption.
 
-**Data stays in region.** Azure OpenAI UK South. UK/EU data residency. GDPR-compliant by design.
+**End-to-end encryption.** Your conversations are encrypted end-to-end. Only you can access them. We cannot read your conversations even if compelled to.
 
-**Data doesn't train models.** Your conversations are not used to train AI systems.
+**Local-first.** Conversations stay on your device by default. Cloud sync is optional.
 
-**Consent is the default.** You control what is shared, where it is stored, and whether it syncs across devices.
+**UK/EU data residency.** If cloud sync is enabled, data is hosted on Microsoft Azure with UK/EU data residency.
 
-> Chomi cannot access conversation content even if compelled to. This is an architectural property, not a policy commitment.
+**No data mining.** We are a prediction platform grounded in OCEAN personality scores — not behavioural surveillance. Your data is never sold, shared, or used beyond providing the service to you.
+
+**No training on your data.** Your conversations are never used to train AI models.
 
 <br>
 
@@ -160,6 +190,7 @@ Four principles govern the architecture:
 - ⛔ A diagnostic or prescriptive system
 - ⛔ A crisis intervention service
 - ⛔ A general-purpose assistant or productivity tool
+- ⛔ A data mining or behavioural surveillance platform
 
 Chomi is designed to complement professional care — between sessions, or where access is limited.
 
@@ -169,7 +200,7 @@ Chomi is designed to complement professional care — between sessions, or where
 
 ## Ecosystem Position
 
-Chomi is the **psychological application layer** of the NRich behavioral intelligence ecosystem.
+Chomi is the Jungian psychology application layer of the **NRich** behavioral intelligence ecosystem.
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -181,13 +212,13 @@ Chomi is the **psychological application layer** of the NRich behavioral intelli
                    ▼                      ▼
 ┌──────────────────────────┐  ┌───────────────────────────────┐
 │      SOUNDS LIKE ME      │  │            CHOMI               │
-│  Behavioral Signal       │  │   Jungian Application Layer    │
-│  Acquisition Layer       │→→│   Receives OCEAN profile       │
-│  Music → OCEAN profile   │  │   from first interaction       │
+│  Behavioral Signal       │  │  Jungian Psychology            │
+│  Acquisition Layer       │→→│  Application Layer             │
+│  Music → OCEAN profile   │  │  Receives OCEAN profile        │
 └──────────────────────────┘  └───────────────────────────────┘
 ```
 
-When a user completes a Sounds Like Me assessment, their OCEAN personality profile is available to Chomi from the first interaction — no re-inference, no repetition, no starting from scratch. Chomi can also operate independently, without prior personality profiling.
+When a user completes a Sounds Like Me assessment, their OCEAN personality profile is available to Chomi from the first interaction — calibrating the Jungian feature set to the individual's psychological profile from the outset. Chomi can also operate independently, without prior personality profiling.
 
 → [NRich Repository](#)
 → [Sounds Like Me Repository](#)
@@ -198,7 +229,7 @@ When a user completes a Sounds Like Me assessment, their OCEAN personality profi
 
 ## Who Chomi Is For
 
-Chomi is openly available. It is most likely to resonate with people already engaged in their own inner work — in or between therapy, drawn to depth psychology, or seeking a space for serious self-reflection. It is not optimised for surface-level interaction or task completion.
+Chomi is openly available. It resonates most with people already engaged in their own inner work — in or between therapy, drawn to depth psychology, or seeking a structured space for serious self-reflection. It is not optimised for surface-level interaction or task completion.
 
 Free to start at **[chomi.ai](https://chomi.ai)**
 
@@ -208,9 +239,9 @@ Free to start at **[chomi.ai](https://chomi.ai)**
 
 <div align="center">
 
-### Chomi applies Jungian analytical psychology as operational infrastructure for AI companionship — grounded in a therapeutic tradition, not surface-level conversation design.
+### Chomi delivers Jungian analytical psychology as a functional AI feature set — grounded in a therapeutic tradition with nearly a century of clinical application.
 
-**This is not a chatbot. It is a psychological system.**
+**This is not a chatbot. It is depth psychology through AI.**
 
 <br>
 
